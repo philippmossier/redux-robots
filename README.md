@@ -17,8 +17,8 @@ What i learned
 
 * 5 Step Redux Concept: Action -> Middleware -> Reducer -> Store -> Make changes.
 * Using the Redux-logger npm package for perfect readability what happens step by step. 
-* Using a error boundary component.
-* Refactor your src folders after you have finished the app for better readability.
+* Using an error boundary component.
+* Refactor your src folders after you have finished the app, for better readability.
 
 
 
