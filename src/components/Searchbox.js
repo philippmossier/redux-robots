@@ -1,0 +1,17 @@
+import React from 'react';
+
+const Searchbox = ({ searchfield, searchChange }) => {
+	return (
+		<div className="pa2">
+			<input
+				type="search"
+				className="pa3 ba b--green bg-lightest-blue"
+				placeholder="search robots"
+				onChange={searchChange}
+			/>
+		</div>
+	);
+};
+
+// if you wanna select one function component :  export { Searchbox };
+export default Searchbox;
